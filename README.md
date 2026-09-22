@@ -44,8 +44,8 @@ citations. Everything is defined in one SAM template and torn down with one comm
 | [03-cost-model.md](docs/03-cost-model.md) | What this actually costs, where the traps are, how to tear down |
 | [04-production-gaps.md](docs/04-production-gaps.md) | What separates this from a system you'd run for a company |
 | [05-interview-questions.md](docs/05-interview-questions.md) | ~50 questions with answers, from fundamentals to system design |
-| [06-industrial-rag-system-design.md](docs/06-industrial-rag-system-design.md) | **Hinglish.** What real production RAG looks like — all 6 planes, maturity ladder, interview framework |
-| [tests/eval/README.md](tests/eval/README.md) | **Hinglish.** The eval harness — metrics, what order to read them in, how to tune |
+| [06-industrial-rag-system-design.md](docs/06-industrial-rag-system-design.md) |  What real production RAG looks like — all 6 planes, maturity ladder, interview framework |
+| [tests/eval/README.md](tests/eval/README.md) |  The eval harness — metrics, what order to read them in, how to tune |
 
 ## Before you deploy: three things that will bite you
 
